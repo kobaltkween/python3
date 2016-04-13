@@ -26,6 +26,8 @@
 *.html
 *.pdf
 *.docx
+*.doc
+*.odt
 
 # Logs and databases #
 ######################
