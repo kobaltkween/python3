@@ -1,0 +1,6 @@
+2016-01-16 20:08:49,245 - root - INFO - Creating a new address.
+2016-01-16 20:08:49,246 - root - ERROR - NAME exception
+2016-01-16 20:08:49,247 - root - INFO - Creating a new address.
+2016-01-16 20:08:49,247 - root - ERROR - STATE exception
+2016-01-16 20:08:49,249 - root - INFO - Creating a new address.
+2016-01-16 20:08:49,249 - root - ERROR - ZIPCODE exception

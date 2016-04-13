@@ -1,0 +1,11 @@
+ERROR:root:time data '10-32-1948' does not match format '%m-%d-%Y'
+DEBUG:root:birthday : 1948-10-31 00:00:00
+DEBUG:root:upcoming: 2016-10-31 00:00:00
+DEBUG:root:duration: 288 days, 2:29:39.935819
+DEBUG:root:birthday : 1999-02-01 00:00:00
+DEBUG:root:upcoming: 2016-02-01 00:00:00
+DEBUG:root:duration: 15 days, 2:29:39.922829
+ERROR:root:time data '10-32-1948' does not match format '%m-%d-%Y'
+DEBUG:root:birthday : 1973-02-22 00:00:00
+DEBUG:root:upcoming: 2016-02-22 00:00:00
+DEBUG:root:duration: 36 days, 2:24:45.013263
